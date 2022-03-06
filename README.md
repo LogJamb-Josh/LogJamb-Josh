@@ -8,6 +8,9 @@
   - Anything Jamb related.  I don't know what I'm looking for, but I'll recognize it when I see it.
 - 📫 How to reach me ... 
   - Email me at josh.overholt@gmail.com or text me at 217-254-5167.
+-  I'm applying for a new job.  Some want me to take a test.  I saved the tests to a public repo below.
+   - [KForce - Delivery Health](https://github.com/LogJamb-Josh/CodingChallenge.Wpf.KForce.DeliveryHealth)
+   - [Apex - Jack Henry](https://github.com/LogJamb-Josh/CodingChallenge.WebApi.Apex.JackHenry)
 
 <!---
 LogJamb-Josh/LogJamb-Josh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
