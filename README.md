@@ -11,6 +11,16 @@
 -  I'm applying for a new job.  Some want me to take a test.  I saved the tests to a public repo below.
    - [KForce - Delivery Health](https://github.com/LogJamb-Josh/CodingChallenge.Wpf.KForce.DeliveryHealth)
    - [Apex - Jack Henry](https://github.com/LogJamb-Josh/CodingChallenge.WebApi.Apex.JackHenry)
+-  Social media accounts
+   -  [Twitter](https://twitter.com/JoshDotOverholt) - I tweet articles and videos I encounter and appreciate.
+   -  [YouTube Software Channel](https://www.youtube.com/playlist?list=PL-QFoptVTw3jOn4MQChi56T2p8nbL9XEv) - I save software videos to this channel that interest me.
+-  My Domains - Bit of a mess at the moment
+   - [Broncolj](https://www.broncolj.com/) - A Blazor app using AAD calling an Azure Function app.
+   - [LogJamb](https://www.logjamb.com/) - This needs work  **:relaxed:**
+   - [SneakyAlcoholic](https://www.sneakyalcoholic.com/) - Probably an early Blazor app hosted on an Azure CDN
+   - [LogJambComingSoom](http://logjambcomingsoon.com/) - I lost track of this one too.
+
+   - 
 
 <!---
 LogJamb-Josh/LogJamb-Josh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
