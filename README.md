@@ -9,8 +9,8 @@
 - 📫 How to reach me ... 
   - Email me at josh.overholt@gmail.com or text me at 217-254-5167.
 -  I'm applying for new jobs.  Some have asked me to take a test.  I saved the tests I've taken to a public repo below.
-   - [KForce - Delivery Health](https://github.com/LogJamb-Josh/CodingChallenge.Wpf.KForce.DeliveryHealth)
-   - [Apex - Jack Henry](https://github.com/LogJamb-Josh/CodingChallenge.WebApi.Apex.JackHenry)
+   - [Linq Test](https://github.com/LogJamb-Josh/CodingChallenge.Wpf.KForce.DeliveryHealth)
+   - [.Net 6 Minimal Api, Linq & Unti Test](https://github.com/LogJamb-Josh/CodingChallenge.WebApi.Apex.JackHenry)
 -  Social media accounts
    -  [Twitter](https://twitter.com/JoshDotOverholt) - I tweet articles and videos I encounter and appreciate.
    -  [YouTube Software Channel](https://www.youtube.com/playlist?list=PL-QFoptVTw3jOn4MQChi56T2p8nbL9XEv) - I save software videos to this channel that interest me.
