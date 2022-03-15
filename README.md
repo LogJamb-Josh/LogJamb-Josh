@@ -16,7 +16,7 @@
    -  [YouTube Software Channel](https://www.youtube.com/playlist?list=PL-QFoptVTw3jOn4MQChi56T2p8nbL9XEv) - I save software videos to this channel that interest me.
 -  My Domains - Bit of a mess at the moment
    - [Broncolj](https://www.broncolj.com/) - A Blazor app using AAD calling an Azure Function app.   
-   - [SneakyAlcoholic](https://www.sneakyalcoholic.com/) - Probably an early Blazor app hosted on an Azure CDN
+   - [SneakyAlcoholic](https://www.sneakyalcoholic.com/) - I'm working on setting this up for AAD B2C.
    - [LogJamb](https://www.logjamb.com/) - This needs work  **:relaxed:**
    - [LogJambComingSoom](http://logjambcomingsoon.com/) - I lost track of this one too.
 
